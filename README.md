@@ -4,3 +4,5 @@ Currently, the team is building smart contracts to automate many of the institut
 
 
 ![Alt Text](1_deployed_smart_contract.png)
+![Alt Text](2_deployed_smart_contract.png)
+![Alt Text](3_deployed_smart_contract.png)
